@@ -1,0 +1,271 @@
+@font-face{
+font-family:bannu;
+src:url(../fonts/AlfaSlabOne-Regular.ttf);
+}
+@font-face{
+font-family:kanna;
+src:url(../fonts/BebasNeue-Regular.ttf);
+}
+@font-face{
+font-family:mahesh;
+src:url(../fonts/Montserrat-Bold.0tf);
+}
+
+
+section.\31 st-section {
+    background: #fec339 url('../accects/images/bg.jpg') no-repeat 0px 0px;
+    background-size: cover;
+padding-bottom: 25px;
+}
+.bike img {
+    width: 41px;
+}
+.contact.bike span {
+    font-family: kanna;
+    letter-spacing: 2px;
+}
+nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: kanna;
+    letter-spacing: 3px;
+    color: black;
+}
+
+nav ul {
+    list-style: none;
+    
+}
+.row.burgerimg {
+    padding-top: 70px;
+}
+.burger-heading p {
+    font-family: mahesh;
+    text-transform: uppercase;
+    border: 2px dashed;
+    display: inline-block;
+    padding: 5px;
+}
+.burger-heading h1 {
+    font-family: bannu;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 85px;
+}
+.burger-heading h1 span {
+    display: block;
+    font-size: 60px;
+}
+.price {
+    width: 150px;
+    height: 150px;
+    background: #f00;
+    border-radius: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.price-border
+ {
+    width: 130px;
+    height: 130px;
+    border: 2px dashed #fff;
+    border-radius: 100%;
+    text-align: inherit;
+    justify-content: center;
+    align-items: center;
+}
+span.total-price{
+    text-align: inherit;
+    color: #fff;
+}
+span.dular {
+    font-family: 'kanna';
+    font-size: 70px;
+}
+span.cost {
+    font-family: 'kanna';
+    font-size: 30px;
+}
+span.only {
+    display: block;
+    font-family: 'kanna';
+    letter-spacing: 16px;
+    font-size: 20px;
+    margin-top: -26px;
+    margin-left: 15px;
+}
+.total-cost {
+    left: 0px;
+    bottom: 0px;
+    position: absolute;
+}
+.col-md-6.col-sm-12.total-img-sec {
+    position: relative;
+}
+.left-side {
+    text-align: end;
+}
+nav.container-fluid {
+    padding-top: 15px;
+}
+header {
+    padding-top: 15px;
+}
+
+
+                          /*2nd section*/
+
+.row.total-2ndsection {
+    padding: 50px 0px;
+}
+.\32 img-2burger .fast {
+    padding-bottom: 25px;
+}
+.button-place {
+    text-align: center;
+}
+.button-place button {
+    border: none;
+    background: #ff0;
+    font-family: 'kanna';
+    letter-spacing: 1px;
+    padding: 5px 15px;
+}
+
+
+                                    /*3nd section*/
+
+.\33 nd-section {
+    text-align: center;
+}
+.\33 th-heading h1 {
+    font-family: bannu;
+    padding-top: 45px;
+}
+.3rd-img-heading h1 {
+    font-family: 'kanna';
+}
+.\33 rd-img-heading button {
+    border: none;
+    background: red;
+    color: #fff;
+    font-family: 'kanna';
+    letter-spacing: 1px;
+    padding: 2px 20px;
+margin-bottom: 20px;
+}
+.row.total-4thsection {
+    background: #f7f2f2;
+    padding: 15px;
+}
+
+
+                         /*4nd section*/
+
+.row.total-4thsection span {
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+
+                                   /*5nd section*/
+
+.nani {
+    background: url('../accects/images/burger_single.png') no-repeat 0px -35px,url('../accects/images/burger_on_plate.png') no-repeat bottom right;
+    padding-bottom: 70px;
+background-size: 20%;
+    text-align: center;
+    text-transform: uppercase;
+}
+.nani input {
+    width: 50%;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.nani button {
+    width: 50%;
+    background: red;
+    text-transform: uppercase;
+    font-size: 33px;
+    font-family: 'bannu';
+border: none;
+}
+.name {
+ background: url('../accects/images/sauce_bottle.png')  no-repeat -45px -55px;
+background-size: 50%;
+    text-align: end;
+padding-bottom: 55px;
+}
+.email {
+    text-align: justify;
+ 
+}
+
+.nani button {
+    width: 50%;
+    background: red;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'bannu';
+    padding: 12px;
+}
+.\35 th-heading {
+    padding-top: 65px;
+}
+.\35 th-heading h1 {
+    font-family: 'bannu';
+    padding-bottom: 75px;
+}
+
+
+
+
+
+                                 /*6nd section*/
+
+
+    
+.dharani{
+ background: #fec339 url('../accects/images/footer_bg.jpg') no-repeat 0px 0px;
+    background-size: cover;
+color:#fff;
+
+}
+.smoemater {
+    display: contents;
+}
+.logo-burger {
+    padding-top: 60px;
+}
+.imperation {
+    padding: 35px 35px 50px 18px;
+}
+.adresh {
+    padding: 35px 25px 50px 25px;
+}
+.adresh span {
+    font-family: 'kanna';
+}
+.adresh span {
+    display: -webkit-inline-box;
+    padding-left: 20px;
+}
+.compeny-name {
+    padding: 45px 25px 15px 25px;
+    font-family: 'kanna';
+}
+.social-media {
+    padding: 40px 25px 15px 25px;
+    text-align: end;
+}
+.compeny{
+display: none;
+font-family: 'kanna';
+}
+
+.mmmgf{
+display: contents;
+}
+}

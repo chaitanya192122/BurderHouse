@@ -1,0 +1,30 @@
+@media screen and (max-width:576px){
+.compeny-name {
+ 
+    display: none;
+font-family: 'kanna';
+}
+.compeny {
+    font-family: 'kanna';
+   display: block !important;
+    padding-top: 30px;
+}
+.left-side {
+    text-align: justify !important;
+    padding-top: 20px;
+}
+
+.email, .name {
+    text-align: center !important;
+}
+.nani {
+ 
+background-size: 45% !important;
+    
+}
+.name {
+ 
+background-size: 55% !important;
+    
+}
+}
